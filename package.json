@@ -1,0 +1,29 @@
+{
+  "name": "mean-multy-vender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilumsadeepa/MEAN-multy-vender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilumsadeepa/MEAN-multy-vender/issues"
+  },
+  "homepage": "https://github.com/dilumsadeepa/MEAN-multy-vender#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.4",
+    "socket.io": "^4.5.4",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
